@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀 The Day I Realized Branching Matters
+#  The Day I Realized Branching Matters
 
 When I first shipped my app to the Play Store, I didn’t really understand Git branches.
 
